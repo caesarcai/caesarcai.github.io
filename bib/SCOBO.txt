@@ -1,0 +1,8 @@
+@article{cai2022scobo,
+title = {A one-bit, comparison-based gradient estimator},
+author = {HanQin Cai and Daniel McKenzie and Wotao Yin and Zhenliang Zhang},
+journal = {Applied and Computational Harmonic Analysis},
+volume = {60},
+pages = {242--266},
+year = {2022}
+}

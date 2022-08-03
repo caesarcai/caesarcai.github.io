@@ -1,0 +1,8 @@
+@InProceedings{cai2021lrpca,
+  title     = {Learned Robust {PCA}: A Scalable Deep Unfolding Approach for High-Dimensional Outlier Detection},
+  author    = {Cai, HanQin and Liu, Jialin and Yin, Wotao},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {34},
+  pages     = {16977--16989},
+  year      = {2021}
+}

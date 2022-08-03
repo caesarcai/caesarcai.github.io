@@ -1,0 +1,7 @@
+@InProceedings{cai2021rtcur,
+    author    = {Cai, HanQin and Chao, Zehan and Huang, Longxiu and Needell, Deanna},
+    title     = {Fast Robust Tensor Principal Component Analysis via Fiber {CUR} Decomposition},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    year      = {2021},
+    pages     = {189--197}
+}

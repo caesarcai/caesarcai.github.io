@@ -1,0 +1,9 @@
+@article{cai2021ircur,
+  title     = {Rapid Robust Principal Component Analysis: {CUR} Accelerated Inexact Low Rank Estimation},
+  author    = {Cai, HanQin and Hamm, Keaton and Huang, Longxiu and Li, Jiaqi and Wang, Tao},
+  journal   = {{IEEE} Signal Processing Letters},
+  volume    = {28},
+  pages     = {116--120},
+  year      = {2021},
+  publisher = {IEEE}
+}

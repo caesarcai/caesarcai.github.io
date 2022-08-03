@@ -1,0 +1,9 @@
+@article{cai2022zoro,
+title = {Zeroth-Order Regularized Optimization (ZORO): Approximately Sparse Gradients and Adaptive Sampling},
+author = {Cai, HanQin and McKenzie, Daniel and Yin, Wotao and Zhang, Zhenliang},
+journal = {SIAM Journal on Optimization},
+volume = {32},
+number = {2},
+pages = {687--714},
+year = {2022}
+}

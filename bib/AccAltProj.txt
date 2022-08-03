@@ -1,0 +1,11 @@
+@article{cai2019accaltproj,
+  author    = {HanQin Cai and Jian-Feng Cai and Ke Wei},
+  title     = {Accelerated Alternating Projections for Robust Principal Component Analysis},
+  journal   = {Journal of Machine Learning Research},
+  year      = {2019},
+  volume    = {20},
+  number    = {1},
+  pages     = {685--717},
+  publisher = {JMLR. org}
+}
+

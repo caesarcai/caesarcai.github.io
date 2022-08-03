@@ -1,0 +1,9 @@
+@article{cai2021asap,
+  title     = {Accelerated Structured Alternating Projections for Robust Spectrally Sparse Signal Recovery},
+  author    = {Cai, HanQin and Cai, Jian-Feng and Wang, Tianming and Yin, Guojian},
+  journal   = {{IEEE} Transactions on Signal Processing},
+  volume    = {69},
+  pages     = {809--821},
+  year      = {2021},
+  publisher = {IEEE}
+}

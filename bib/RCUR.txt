@@ -1,0 +1,9 @@
+@article{cai2021rcur,
+  title={Robust {CUR} Decomposition: Theory and Imaging Applications},
+  author={Cai, HanQin and Hamm, Keaton and Huang, Longxiu and Needell, Deanna},
+  journal={SIAM Journal on Imaging Sciences},
+  pages = {1472--1503},
+  volume={14},
+  number={4},
+  year={2021}
+}
