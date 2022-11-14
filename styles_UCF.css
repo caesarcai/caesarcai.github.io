@@ -329,8 +329,8 @@ nav ul li.sitename b{
 nav ul li a {
     color: #010101;
     display: block;
-    /*font-family: 'Exo 2',Arial,sans-serif;*/
-    font-family: 'Andale Mono', monospace;
+    font-family: 'Exo 2', Arial, sans-serif;
+    /*font-family: 'Andale Mono', monospace;*/
     font-size: 20px;
     letter-spacing: 0;
     margin-top:8px;
