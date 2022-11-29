@@ -1,0 +1,8 @@
+@inproceedings{hamm2022RieCUR,
+  title={Riemannian CUR decompositions for robust principal component analysis},
+  author={Hamm, Keaton and Meskini, Mohamed and Cai, HanQin},
+  booktitle={Topological, Algebraic and Geometric Learning Workshops 2022},
+  pages={152--160},
+  year={2022},
+  organization={PMLR}
+}
