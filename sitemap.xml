@@ -9,92 +9,127 @@
 
 <url>
   <loc>https://hqcai.org/</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://hqcai.org/index.html</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hqcai.org/research.html</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hqcai.org/teaching.html</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://hqcai.org/journals/SCOBO.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://hqcai.org/bib/SCOBO.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hqcai.org/journals/ZORO.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/ZORO.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/LRPCA.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/posters/LRPCA_NIPS_2021_Poster.pdf</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/ZOBCD.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/posters/ZO_BCD_Poster.pdf</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hqcai.org/journals/Mode-wise.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/ModewiseDecomp.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hqcai.org/journals/RCUR.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/RCUR.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hqcai.org/journals/IRCUR.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/IRCUR.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hqcai.org/journals/ASAP.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/ASAP.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hqcai.org/journals/AccAltProj.pdf</loc>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/AccAltProj.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/posters/AccAltProjPoster.pdf</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/bib/RTCUR.txt</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hqcai.org/reports/LA_Homicide_Narratives_Final_Report.pdf</loc>
-  <lastmod>2022-08-06T20:42:53+00:00</lastmod>
+  <lastmod>2022-11-29T07:55:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
