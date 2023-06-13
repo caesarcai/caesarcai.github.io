@@ -1,0 +1,10 @@
+@article{cai2023hsgd,
+author = {Cai, HanQin and Cai, Jian-Feng and You, Juntao},
+title = {Structured Gradient Descent for Fast Robust Low-Rank Hankel Matrix Completion},
+journal = {SIAM Journal on Scientific Computing},
+volume = {45},
+number = {3},
+pages = {1172--1198},
+year = {2023}
+}
+
