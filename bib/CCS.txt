@@ -1,0 +1,10 @@
+@article{cai2023ccs,
+  title={Matrix completion with cross-concentrated sampling: Bridging uniform sampling and {CUR} sampling},
+  author={Cai, HanQin and Huang, Longxiu and Li, Pengyu and Needell, Deanna},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume = {45},
+  number = {8},
+  pages = {10100–-10113},
+  year={2023},
+  publisher={IEEE}
+}
