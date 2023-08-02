@@ -1,0 +1,10 @@
+@InProceedings{liu2023ms4l2o,
+  title     = {Towards Constituting Mathematical Structures for Learning to Optimize},
+  author    = {Liu, Jialin and Chen, Xiaohan and Wang, Zhangyang and Yin, Wotao and Cai, HanQin},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  pages     = {21426--21449},
+  year      = {2023},
+  volume    = {202},
+  publisher = {PMLR}
+}
+
