@@ -1,0 +1,7 @@
+@inproceedings{tan2023tubal,
+  author={Tan, Zheng and Huang, Longxiu and Cai, HanQin and Lou, Yifei},
+  booktitle={2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Non-Convex Approaches for Low-Rank Tensor Completion under Tubal Sampling}, 
+  year={2023},
+  pages={1-5},
+}
