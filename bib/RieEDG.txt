@@ -1,7 +1,6 @@
-@inproceedings{
-smith2023rieEDG,
-title={Riemannian Optimization for Euclidean Distance Geometry},
-author={Chandler Mack Smith and Samuel P. Lichtenberg and HanQin Cai and Abiy Tasissa},
-booktitle={Conference on Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning},
-year={2023},
+@inproceedings{smith2023rieEDG,
+  title.    = {Riemannian Optimization for Euclidean Distance Geometry},
+  author    = {Chandler Mack Smith and Samuel P. Lichtenberg and HanQin Cai and Abiy Tasissa},
+  booktitle = {OPT 2023: Optimization for Machine Learning},
+  year      = {2023}
 }
