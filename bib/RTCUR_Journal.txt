@@ -2,5 +2,8 @@
   title={Robust Tensor {CUR} Decompositions: Rapid Low-Tucker-Rank Tensor Recovery with Sparse Corruption},
   author={Cai, HanQin and Chao, Zehan and Huang, Longxiu and Needell, Deanna},
   journal={SIAM Journal on Imaging Sciences},
+  pages = {225--247},
+  volume={17},
+  number={1},
   year={2024}
 }
