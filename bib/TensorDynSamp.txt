@@ -1,0 +1,7 @@
+@inproceedings{wang2024TensorDynSamp,
+  title = {Three-Dimensional Signal Processing: A New Approach in Dynamical Sampling via Tensor Products},
+  author = {Wang, Yisen and Cai, HanQin and Huang, Longxiu},
+  booktitle = {Asilomar Conference on Signals, Systems, and Computers},
+  year = {2024}
+}
+
