@@ -1,5 +1,5 @@
 @article{han2024wtdun,
-  title={WTDUN: Wavelet Tree-Structured Sampling and Deep Unfolding Network for Image Compressed Sensing},
+  title={{WTDUN}: Wavelet Tree-Structured Sampling and Deep Unfolding Network for Image Compressed Sensing},
   author={Han, Kai and Wang, Jin and Shi, Yunhui and Cai, HanQin and Ling, Nam and Yin, Baocai},
   journal={ACM Transactions on Multimedia Computing Communications and Applications},
   year={2024},
