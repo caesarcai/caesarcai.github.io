@@ -5,6 +5,7 @@
   year    = {2024},
   volume  = {21},
   number  = {1},
-  pages   = {Article 33}
+  pages   = {Article 33},
+  publisher = {ACM},
 }
 
