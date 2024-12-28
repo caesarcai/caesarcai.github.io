@@ -1,0 +1,6 @@
+@phdthesis{cai2018accelerating,
+  title={Accelerating truncated singular-value decomposition: a fast and provable method for robust principal component analysis},
+  author={Cai, HanQin},
+  school={University of Iowa},
+  year={2018}
+}
