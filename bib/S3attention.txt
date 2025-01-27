@@ -2,6 +2,9 @@
   title={{S$^3$Attention}: Improving Long Sequence Attention with Smoothed Skeleton Sketching},
   author={Wang, Xue and Zhou, Tian and Zhu, Jianqing and Liu, Jialin and Yuan, Kun and Yao, Tao and Yin, Wotao and Jin, Rong and Cai, HanQin},
   journal={IEEE Journal of Selected Topics in Signal Processing},
+  volume={18},
+  number={6},
+  pages={985--996},
   year={2024},
   publisher={IEEE}
 }
