@@ -1,0 +1,7 @@
+@InProceedings{kundu2025redg,
+  author={Kundu, Chandra and Tasissa, Abiy and Cai, HanQin},
+  booktitle={59th Annual Conference on Information Sciences and Systems}, 
+  title={Structured Sampling for Robust Euclidean Distance Geometry}, 
+  year={2025},
+  pages={1-5}
+}
