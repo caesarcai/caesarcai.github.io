@@ -1,0 +1,9 @@
+@article{kim2025cars,
+  title     = {Curvature-Aware Derivative-Free Optimization},
+  author    = {Kim, Bumsu and McKenzie, Daniel and Cai, HanQin and Yin, Wotao},
+  journal   = {Journal of Scientific Computing},
+  year      = {2025},
+  volume    = {103},
+  number    = {43},
+  pages     = {1--28}
+}
