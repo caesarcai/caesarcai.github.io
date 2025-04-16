@@ -3,5 +3,6 @@
   booktitle={IEEE International Symposium on Information Theory}, 
   title={Property Inheritance for Subtensors in Tensor Train Decompositions}, 
   year={2025},
-  pages={1-6}
+  pages={1-6},
+  publisher={IEEE}
 }
