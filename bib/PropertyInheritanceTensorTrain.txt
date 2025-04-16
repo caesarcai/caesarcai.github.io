@@ -1,0 +1,7 @@
+@InProceedings{cai2025property,
+  author={Cai, HanQin and Huang, Longxiu},
+  booktitle={IEEE International Symposium on Information Theory}, 
+  title={Property Inheritance for Subtensors in Tensor Train Decompositions}, 
+  year={2025},
+  pages={1-6}
+}
