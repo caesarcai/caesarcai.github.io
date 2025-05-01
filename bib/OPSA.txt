@@ -1,0 +1,7 @@
+@inproceedings{
+giampouras2025opsa,
+title={Guarantees of a Preconditioned Subgradient Algorithm for Overparameterized Asymmetric Low-rank Matrix Recovery},
+author={Giampouras, Paris and Cai, HanQin and Vidal, Ren\'e},
+booktitle={International Conference on Machine Learning},
+year={2025}
+}
