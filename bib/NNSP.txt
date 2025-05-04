@@ -1,0 +1,10 @@
+@article{chen2025correlating,
+  title={Correlating Time Series with Interpretable Convolutional Kernels},
+  author={Chen, Xinyu and Cai, HanQin and Liu, Fuqiang and Zhao, Jinhua},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2025},
+  volume   ={37},
+  number   ={6},
+  pages    ={3272--3283},
+  publisher={IEEE}
+}
