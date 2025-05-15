@@ -1,4 +1,4 @@
-@InProceedings{cai2021zo-bcd,
+@InProceedings{cai2021zobcd,
   title     = {A Zeroth-Order Block Coordinate Descent Algorithm for Huge-Scale Black-Box Optimization},
   author    = {Cai, HanQin and Lou, Yuchen and Mckenzie, Daniel and Yin, Wotao},
   booktitle = {Proceedings of the 38th International Conference on Machine Learning},
