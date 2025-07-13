@@ -1,4 +1,4 @@
-@article{chen2024Laplacian, 
+@article{chen2024laplacian, 
   author   ={Chen, Xinyu and Cheng, Zhanhong and Cai, HanQin and Saunier, Nicolas and Sun, Lijun},
   journal  ={IEEE Transactions on Knowledge and Data Engineering}, 
   title    ={Laplacian Convolutional Representation for Traffic Time Series Imputation}, 
