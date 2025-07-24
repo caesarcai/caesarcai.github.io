@@ -1,0 +1,9 @@
+@article{cai2025hsnld,
+  year = {2025},
+  volume = {41},
+  number = {7},
+  pages = {075015},
+  author = {Cai, HanQin and Huang, Longxiu and Lu, Xiliang and You, Juntao},
+  title = {Accelerating ill-conditioned Hankel matrix recovery via structured Newton-like descent},
+  journal = {Inverse Problems}
+}
