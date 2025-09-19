@@ -1,0 +1,10 @@
+@article{chen2025dynamic_autoregressive,
+  author={Chen, Xinyu and Zhuang, Dingyi and Cai, HanQin and Wang, Shenhao and Zhao, Jinhua},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
+  title={Dynamic Autoregressive Tensor Factorization for Pattern Discovery of Spatiotemporal Systems}, 
+  year    = {2025},
+  volume  = {47},
+  number  = {10},
+  pages   = {8524--8537},
+  publisher= {IEEE}
+}
