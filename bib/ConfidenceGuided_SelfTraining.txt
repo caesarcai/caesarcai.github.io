@@ -1,0 +1,6 @@
+@InProceedings{heidarizadeh2026confidence_guided,
+  title     = {Confidence-Guided Self-Training for Domain Adaptation},
+  author    = {Heidarizadeh, Akram and Awad, Akram and Cai, HanQin and Atia, George},
+  booktitle = {International Conference on Artificial Intelligence and Statistics},
+  year      = {2026}
+}
