@@ -12,6 +12,15 @@ body {
 	font-weight: 200;
 }
 
+.profile-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
 * {
 	margin:0;
