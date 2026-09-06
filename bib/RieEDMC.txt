@@ -1,0 +1,10 @@
+@article{smith2026RieEDMC,
+  title={Provable Non-Convex {Euclidean} Distance Matrix Completion Geometry, Reconstruction, and Robustness},
+  author={Smith, Chandler and Cai, HanQin and Tasissa, Abiy},
+  journal={IEEE Transactions on Information Theory},
+  volume   = {72},
+  number   = {9},
+  pages    = {6993--7011},
+  year     = {2026},
+  publisher= {IEEE}
+}
