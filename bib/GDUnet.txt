@@ -1,0 +1,8 @@
+@article{han2026GDUnet,
+  title={GDU-net: A cross-gated dual-domain optimization unfolding network for image compressive sensing},
+  author={Han, Kai and Wang, Jin and Cai, HanQin and Shi, Yunhui and Ling, Nam and Yin, Baocai},
+  journal={Neurocomputing},
+  pages={134809},
+  year={2026},
+  publisher={Elsevier}
+}
