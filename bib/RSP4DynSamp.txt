@@ -1,0 +1,8 @@
+@inproceedings{cai2026RSP4DynSamp,
+  author={Cai, HanQin and Huang, Longxiu and Wang, Tianming and You, Juntao},
+  booktitle={IEEE International Symposium on Information Theory}, 
+  title={Robust Spectral Recovery for Dynamical Sampling}, 
+  year={2026},
+  pages={1--6},
+  organization={IEEE}
+}
