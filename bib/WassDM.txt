@@ -1,7 +1,7 @@
 @inproceedings{rana2026WassDM,
   title={Recovering Wasserstein Distance Matrices from Few Measurements},
   author={Rana, Muhammad and Tasissa, Abiy and Cai, HanQin and Gavriyelov, Yakov and Hamm, Keaton},
-  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing},
   pages={541--545},
   year={2026},
   organization={IEEE}
