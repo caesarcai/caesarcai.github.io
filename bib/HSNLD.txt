@@ -4,6 +4,6 @@
   number = {7},
   pages = {075015},
   author = {Cai, HanQin and Huang, Longxiu and Lu, Xiliang and You, Juntao},
-  title = {Accelerating ill-conditioned Hankel matrix recovery via structured Newton-like descent},
+  title = {Accelerating ill-conditioned {Hankel} matrix recovery via structured {Newton}-like descent},
   journal = {Inverse Problems}
 }
